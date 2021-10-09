@@ -1,0 +1,14 @@
+Kemal 
+Şahin
+2200765021
+b2200765021@cs.hacettepe.edu.tr
+
+My name is Kemal, I study at Hacettepe University and I live with my mom and dad.
+I am learning programming languages since 2020. I want to focus on AI in the medical field.
+
+I acknowledge that I have fully read and understood the contents of the course and website;
+I will not share my work (not even a part of it) on Piazza; I will be responsible for what has been 
+discussed/asked on Piazza; I will not expect any response for my questions that have already been
+asked or written in a language other than English. I understand that if I have any questions or concerns
+about the course mechanics, it is my responsibility to discuss them with the instructors within their office hours
+
